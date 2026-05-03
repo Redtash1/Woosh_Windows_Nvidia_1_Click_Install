@@ -4,7 +4,7 @@
 # DON'T CLONE THIS REPO, IT WON'T WORK AS IT ALL DEPENDS ON THE PYTHON_EMBEDED 3.12.10 TO WORK! 
 
 
-## I made this Woosh Portable 1 click install for Windows that uses Nvidia GTX 10XX, 16XX, RTX Quadro, 20XX, 30XX, 40XX, 50XX. Creates Launch Woosh & Video's, Sounds Desktop Shortcuts. 
+## I made this Woosh Portable 1 click install for Windows that uses Nvidia GTX 10XX, 16XX, RTX Quadro, 20XX, 30XX, 40XX, 50XX GPU. Creates Launch Woosh & Video's, Sounds Desktop Shortcuts. 
 
 ## Click here to jump to Install 👉 [Installation](#-Installation) 👈
 
@@ -50,7 +50,7 @@ with optional text prompts.
 ## Video with audio requires 8GB VRAM or more.
 
 
-1. Make sure you have Git installed as it will be needed to update Index TTS, if not download the Git Standalone Installer and click on Git for Windows/x64 Setup. 👉 [Git Standalone Installer Download](https://git-scm.com/downloads/win) 👈 To install Git, double click Git.exe and just keep clicking next until it's installed, you don't need to change anything.
+1. Make sure you have Git installed as it will be needed to update Woosh, if not download the Git Standalone Installer and click on Git for Windows/x64 Setup. 👉 [Git Standalone Installer Download](https://git-scm.com/downloads/win) 👈 To install Git, double click Git.exe and just keep clicking next until it's installed, you don't need to change anything.
 
 
 2. Make sure your Nvidia graphics drivers are up-to-date. If they are not or if your not sure, please click on the following link to download Nvidia graphics drivers. 👉 [Nvidia Drivers](https://www.nvidia.com/en-us/software/nvidia-app/) 👈
@@ -67,7 +67,7 @@ with optional text prompts.
 7. Then open Woosh Windows Nvidia 1 Click Install main folder, you will see this in the root
 ----
 
-<img width="755" height="220" alt="Screenshot 2026-05-03 004054" src="https://github.com/user-attachments/assets/302cd4b0-2787-475a-b313-7682aba2fef3" />
+<img width="755" height="223" alt="Screenshot 2026-05-03 021014" src="https://github.com/user-attachments/assets/bfa99e0d-9251-4181-ad9c-0ec11bdf3072" />
 
 ----
 8. Then depending on your Nvidia GPU double click on either the Install_Woosh_GTX_10XX_to_RTX_30XX.bat or Install_Woosh_RTX_40XX_&_50XX.bat to start the installation. It will install everything and download the models via Huggingface.  After installation is finished, slowly scroll back up to the top to make sure everything installed correctly.
