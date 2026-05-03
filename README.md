@@ -60,7 +60,7 @@ with optional text prompts.
 4. Make sure you have FFMPEG Shared downloaded & on PATH. Download 👉 [ffmpeg-release-full-shared.7z](https://www.gyan.dev/ffmpeg/builds/) 👈
 
 5.  Now after you have made sure Nvidia GPU drivers are up to date and Git is installed, download Woosh Windows Nvidia 1 Click Install
- from here 👉 [Index TTS2 Windows 1 Click Install](https://github.com/Redtash1/index_tts_Windows_1_Click_Install/releases) 👈 or from the Releases section at the top right of this page.
+ from here 👉 [Woosh Windows Nvidia 1 Click Install](https://github.com/Redtash1/Woosh_Windows_Nvidia_1_Click_Install/releases) 👈 or from the Releases section at the top right of this page.
 
 6. After downloading, extract Woosh Windows Nvidia 1 Click Install ZIP file and pick where you would like to extract the zip files too.
 
