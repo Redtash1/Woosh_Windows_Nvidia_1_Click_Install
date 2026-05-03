@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# DON'T CLONE THIS REPO, IT WON'T WORK AS IT ALL DEPENDS ON THE PYTHON_EMBEDED 3.10.9 TO WORK! 
+# DON'T CLONE THIS REPO, IT WON'T WORK AS IT ALL DEPENDS ON THE PYTHON_EMBEDED 3.12.10 TO WORK! 
 
 
 ## I made this Woosh Portable 1 click install for Windows that uses Nvidia GTX 10XX, 16XX, RTX Quadro, 20XX, 30XX, 40XX, 50XX. Creates Launch Woosh & Video's, Sounds Desktop Shortcuts. 
