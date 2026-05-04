@@ -74,6 +74,11 @@ with optional text prompts.
 
 9. To launch Woosh double click the Launch_Woosh.bat.
 
+
+## Troubleshooting
+
+If you have problems after a successful installation, please go to the Official Sony Ai - Woosh Github to report problems. [Sony Ai - Woosh](https://github.com/SonyResearch/Woosh) Thank you.
+
 ### If this worked for you, Please give it a Star ⭐. Thank you.
 
 ----
